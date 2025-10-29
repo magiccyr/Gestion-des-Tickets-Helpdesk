@@ -1,5 +1,5 @@
 # Application de Gestion des Tickets – Helpdesk Eneo Cameroon
-![Aperçu de l'application](Capture d'écran 2025-10-25 015138.png)
+![Aperçu de l'application](Illustration.png)
 ## Description du projet
 
 Cette application a été développée en Python avec Tkinter pour l’interface graphique et MySQL pour la gestion des données.
